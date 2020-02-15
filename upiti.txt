@@ -1,0 +1,151 @@
+
+db.Teams.insert({"_teamId" : 132, "name" : "Atlanta Hawks", "logo" : "https://i.imgur.com/vd3aORO.png", "playedGames" : {"home" : 28,"away" : 33,"all" : 51},
+	"wins" : {"home" : 9,"away" : 7,"all" : 16},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 19,"away" : 26,"all" : 45},"forPoints" : {"home" : 3101,"away" : 3547,"all" : 6648},
+	"againstPoints" : {"home" : 3223,"away" : 3994,"all" : 7217}});
+
+db.Teams.insert({"_teamId" : 133, "name" : "Boston Celtics", "logo" : "https://i.imgur.com/gkVFR0K.png", "playedGames" : {"home" : 7,"away" : 12,"all" : 54},
+	"wins" : {"home" : 7,"away" : 8,"all" : 15},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 0,"away" : 4,"all" : 4},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 134, "name" : "Brooklyn Nets", "logo" : "https://i.imgur.com/ELtVMD3.png", "playedGames" : {"home" : 30,"away" : 26,"all" : 54},
+	"wins" : {"home" : 17,"away" : 10,"all" : 38},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 13,"away" : 16,"all" : 16},"forPoints" : {"home" : 3315,"away" : 2856,"all" : 6171},
+	"againstPoints" : {"home" : 3244,"away" : 2950,"all" : 6194}});
+
+db.Teams.insert({"_teamId" : 135, "name" : "Charlotte Hornets", "logo" : "https://i.imgur.com/uYorrky.png", "playedGames" : {"home" : 30,"away" : 26,"all" : 56},
+	"wins" : {"home" : 15,"away" : 10,"all" : 25},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 10,"away" : 21,"all" : 31},"forPoints" : {"home" : 3212,"away" : 2999,"all" : 6000},
+	"againstPoints" : {"home" : 3104,"away" : 3574,"all" : 6194}});
+
+db.Teams.insert({"_teamId" : 136, "name" : "Chicago Bulls", "logo" : "https://i.imgur.com/XGgknU2.png", "playedGames" : {"home" : 30,"away" : 29,"all" : 59},
+	"wins" : {"home" : 20,"away" : 8,"all" : 28},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 10,"away" : 21,"all" : 31},"forPoints" : {"home" : 2741,"away" : 2922,"all" : 2103},
+	"againstPoints" : {"home" : 2965,"away" : 3421,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 137, "name" : "Cleveland Cavaliers", "logo" : "https://i.imgur.com/9BoAEJA.png", "playedGames" : {"home" : 24,"away" : 27,"all" : 51},
+	"wins" : {"home" : 18,"away" : 8,"all" : 26},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 10,"away" : 15,"all" : 25},"forPoints" : {"home" : 2565,"away" : 2327,"all" : 2103},
+	"againstPoints" : {"home" : 2474,"away" : 2786,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 138, "name" : "Dallas Mavericks", "logo" : "https://i.imgur.com/m6HrAmr.png", "playedGames" : {"home" : 22,"away" : 27,"all" : 49},
+	"wins" : {"home" : 15,"away" : 15,"all" : 30},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 10,"away" : 17,"all" : 27},"forPoints" : {"home" : 2667,"away" : 2443,"all" : 2103},
+	"againstPoints" : {"home" : 2327,"away" : 2569,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 139, "name" : "Denver Nugets", "logo" : "https://i.imgur.com/Nl7qzw3.png", "playedGames" : {"home" : 32,"away" : 27,"all" : 59},
+	"wins" : {"home" : 22,"away" : 10,"all" : 32},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 10,"away" : 17,"all" : 27},"forPoints" : {"home" : 3232,"away" : 3101,"all" : 2103},
+	"againstPoints" : {"home" : 3024,"away" : 3087,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 140, "name" : "Detroit Pistons", "logo" : "https://i.imgur.com/5BSTwiM.png", "playedGames" : {"home" : 30,"away" : 32,"all" : 62},
+	"wins" : {"home" : 21,"away" : 14,"all" : 35},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 22,"away" : 13,"all" : 35},"forPoints" : {"home" : 3565,"away" : 3214,"all" : 2103},
+	"againstPoints" : {"home" : 3347,"away" : 3645,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 141, "name" : "Golden State Warriors", "logo" : "https://i.imgur.com/OtBW6Lm.png", "playedGames" : {"home" : 31,"away" : 33,"all" : 64},
+	"wins" : {"home" : 14,"away" : 12,"all" : 26},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 19,"away" : 18,"all" : 37},"forPoints" : {"home" : 3131,"away" : 2986,"all" : 2103},
+	"againstPoints" : {"home" : 3212,"away" : 3432,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 142, "name" : "Houston Rockets", "logo" : "https://i.imgur.com/tlnm9ls.png", "playedGames" : {"home" : 23,"away" : 29,"all" : 52},
+	"wins" : {"home" : 15,"away" : 13,"all" : 28},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 9,"away" : 15,"all" : 24},"forPoints" : {"home" : 3328,"away" : 3167,"all" : 2103},
+	"againstPoints" : {"home" : 3346,"away" : 3459,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 143, "name" : "Indiana Pacers", "logo" : "https://i.imgur.com/mL4mK8b.png", "playedGames" : {"home" : 22,"away" : 26,"all" : 48},
+	"wins" : {"home" : 18,"away" : 14,"all" : 32},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 7,"away" : 17,"all" : 24},"forPoints" : {"home" : 2896,"away" : 2754,"all" : 2103},
+	"againstPoints" : {"home" : 2645,"away" : 2967,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 144, "name" : "Los Angeles Clippers", "logo" : "https://i.imgur.com/WjRyB6w.png", "playedGames" : {"home" : 29,"away" : 27,"all" : 56},
+	"wins" : {"home" : 14,"away" : 13,"all" : 27},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 4,"away" : 9,"all" : 13},"forPoints" : {"home" : 3421,"away" : 3185,"all" : 2103},
+	"againstPoints" : {"home" : 2965,"away" : 3047,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 145, "name" : "Los Angeles Lakers", "logo" : "https://i.imgur.com/VfXk4ZU.png", "playedGames" : {"home" : 24,"away" : 27,"all" : 51},
+	"wins" : {"home" : 20,"away" : 11,"all" : 31},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 2,"away" : 7,"all" : 9},"forPoints" : {"home" : 3456,"away" : 3245,"all" : 2103},
+	"againstPoints" : {"home" : 2878,"away" : 2901,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 146, "name" : "Memphis Grizzlies", "logo" : "https://i.imgur.com/XtVTdXh.png", "playedGames" : {"home" : 24,"away" : 27,"all" : 51},
+	"wins" : {"home" : 20,"away" : 11,"all" : 31},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 2,"away" : 7,"all" : 9},"forPoints" : {"home" : 3456,"away" : 3245,"all" : 2103},
+	"againstPoints" : {"home" : 2878,"away" : 2901,"all" : 1905}});
+
+
+db.Teams.insert({"_teamId" : 147, "name" : "Miami Heat", "logo" : "https://i.imgur.com/SGeOUsV.png", "playedGames" : {"home" : 7,"away" : 12,"all" : 19},
+	"wins" : {"home" : 7,"away" : 8,"all" : 15},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 0,"away" : 4,"all" : 4},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 148, "name" : "Milwaukee Bucks", "logo" : "https://i.imgur.com/K683VJR.png", "playedGames" : {"home" : 7,"away" : 12,"all" : 19},
+	"wins" : {"home" : 7,"away" : 8,"all" : 15},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 0,"away" : 4,"all" : 4},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 149, "name" : "Minnesota Timberwolves", "logo" : "https://i.imgur.com/y4opfkg.png", "playedGames" : {"home" : 7,"away" : 12,"all" : 19},
+	"wins" : {"home" : 7,"away" : 8,"all" : 15},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 0,"away" : 4,"all" : 4},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 150, "name" : "New Orleans Pelicans", "logo" : "https://i.imgur.com/iCWc5q6.png", "playedGames" : {"home" : 7,"away" : 12,"all" : 19},
+	"wins" : {"home" : 7,"away" : 8,"all" : 15},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 0,"away" : 4,"all" : 4},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 151, "name" : "New York Knicks", "logo" : "https://i.imgur.com/LW9ZGMo.png", "playedGames" : {"home" : 7,"away" : 12,"all" : 19},
+	"wins" : {"home" : 7,"away" : 8,"all" : 15},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 0,"away" : 4,"all" : 4},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 152, "name" : "Oklahoma City Thunder", "logo" : "https://i.imgur.com/kci5YdM.png", "playedGames" : {"home" : 7,"away" : 12,"all" : 19},
+	"wins" : {"home" : 7,"away" : 8,"all" : 15},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 0,"away" : 4,"all" : 4},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 153, "name" : "Orlando Magic", "logo" : "https://i.imgur.com/CPwIxuB.png", "playedGames" : {"home" : 7,"away" : 12,"all" : 19},
+	"wins" : {"home" : 7,"away" : 8,"all" : 15},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 0,"away" : 4,"all" : 4},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 154, "name" : "Philadelphia 76ers", "logo" : "https://i.imgur.com/qN0OgYi.png", "playedGames" : {"home" : 7,"away" : 12,"all" : 19},
+	"wins" : {"home" : 7,"away" : 8,"all" : 15},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 0,"away" : 4,"all" : 4},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 155, "name" : "Phoenix Suns", "logo" : "https://i.imgur.com/WIBpZlR.png", "playedGames" : {"home" : 7,"away" : 12,"all" : 19},
+	"wins" : {"home" : 7,"away" : 8,"all" : 15},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 0,"away" : 4,"all" : 4},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 156, "name" : "Portland Trail Blazers", "logo" : "https://i.imgur.com/a9KS2NB.png", "playedGames" : {"home" : 7,"away" : 12,"all" : 19},
+	"wins" : {"home" : 7,"away" : 8,"all" : 15},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 0,"away" : 4,"all" : 4},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 157, "name" : "Sacramento Kings", "logo" : "https://i.imgur.com/BJOqYVE.png", "playedGames" : {"home" : 7,"away" : 12,"all" : 19},
+	"wins" : {"home" : 7,"away" : 8,"all" : 15},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 0,"away" : 4,"all" : 4},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 158, "name" : "San Antonio Spurs", "logo" : "https://i.imgur.com/hTIbbeq.png", "playedGames" : {"home" : 7,"away" : 12,"all" : 19},
+	"wins" : {"home" : 7,"away" : 8,"all" : 15},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 0,"away" : 4,"all" : 4},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 159, "name" : "Toronto Raptors", "logo" : "https://i.imgur.com/rnW1o93.png", "playedGames" : {"home" : 28,"away" : 27,"all" : 55},
+	"wins" : {"home" : 21,"away" : 19,"all" : 40},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 7,"away" : 8,"all" : 15},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 160, "name" : "Utah Jazz", "logo" : "https://i.imgur.com/Q4peSRm.png", "playedGames" : {"home" : 25,"away" : 29,"all" : 54},
+	"wins" : {"home" : 20,"away" : 16,"all" : 36},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 5,"away" : 13,"all" : 18},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
+
+db.Teams.insert({"_teamId" : 161, "name" : "Washington Wizards", "logo" : "https://i.imgur.com/TDUty0D.png", "playedGames" : {"home" : 26,"away" : 27,"all" : 53},
+	"wins" : {"home" : 13,"away" : 7,"all" : 20},
+        "draws" : {"home" : 0,"away" : 0,"all" : 0},"loses" : {"home" : 13,"away" : 20,"all" : 33},"forPoints" : {"home" : 813,"away" : 1290,"all" : 2103},
+	"againstPoints" : {"home" : 730,"away" : 1175,"all" : 1905}});
